@@ -1,0 +1,11 @@
+C:\Users\alumno\source\repos\variablesejercicios\variablesejercicios\bin\Debug\variablesejercicios.exe.config
+C:\Users\alumno\source\repos\variablesejercicios\variablesejercicios\bin\Debug\variablesejercicios.exe
+C:\Users\alumno\source\repos\variablesejercicios\variablesejercicios\bin\Debug\variablesejercicios.pdb
+C:\Users\alumno\source\repos\variablesejercicios\variablesejercicios\bin\Debug\variablesejercicios.xml
+C:\Users\alumno\source\repos\variablesejercicios\variablesejercicios\obj\Debug\variablesejercicios.vbprojAssemblyReference.cache
+C:\Users\alumno\source\repos\variablesejercicios\variablesejercicios\obj\Debug\variablesejercicios.Resources.resources
+C:\Users\alumno\source\repos\variablesejercicios\variablesejercicios\obj\Debug\variablesejercicios.vbproj.GenerateResource.cache
+C:\Users\alumno\source\repos\variablesejercicios\variablesejercicios\obj\Debug\variablesejercicios.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\variablesejercicios\variablesejercicios\obj\Debug\variablesejercicios.exe
+C:\Users\alumno\source\repos\variablesejercicios\variablesejercicios\obj\Debug\variablesejercicios.xml
+C:\Users\alumno\source\repos\variablesejercicios\variablesejercicios\obj\Debug\variablesejercicios.pdb

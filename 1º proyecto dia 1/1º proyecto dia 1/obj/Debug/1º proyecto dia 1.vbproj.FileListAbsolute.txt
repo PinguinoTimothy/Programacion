@@ -1,0 +1,11 @@
+C:\Users\alumno\source\repos\1º proyecto dia 1\1º proyecto dia 1\bin\Debug\1º proyecto dia 1.exe.config
+C:\Users\alumno\source\repos\1º proyecto dia 1\1º proyecto dia 1\bin\Debug\1º proyecto dia 1.exe
+C:\Users\alumno\source\repos\1º proyecto dia 1\1º proyecto dia 1\bin\Debug\1º proyecto dia 1.pdb
+C:\Users\alumno\source\repos\1º proyecto dia 1\1º proyecto dia 1\bin\Debug\1º proyecto dia 1.xml
+C:\Users\alumno\source\repos\1º proyecto dia 1\1º proyecto dia 1\obj\Debug\1º proyecto dia 1.vbprojAssemblyReference.cache
+C:\Users\alumno\source\repos\1º proyecto dia 1\1º proyecto dia 1\obj\Debug\_1º_proyecto_dia_1.Resources.resources
+C:\Users\alumno\source\repos\1º proyecto dia 1\1º proyecto dia 1\obj\Debug\1º proyecto dia 1.vbproj.GenerateResource.cache
+C:\Users\alumno\source\repos\1º proyecto dia 1\1º proyecto dia 1\obj\Debug\1º proyecto dia 1.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\1º proyecto dia 1\1º proyecto dia 1\obj\Debug\1º proyecto dia 1.exe
+C:\Users\alumno\source\repos\1º proyecto dia 1\1º proyecto dia 1\obj\Debug\1º proyecto dia 1.xml
+C:\Users\alumno\source\repos\1º proyecto dia 1\1º proyecto dia 1\obj\Debug\1º proyecto dia 1.pdb

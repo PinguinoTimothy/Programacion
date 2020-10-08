@@ -1,0 +1,11 @@
+C:\Users\alumno\source\repos\Area de un triangulo\Area de un triangulo\bin\Debug\Area de un triangulo.exe.config
+C:\Users\alumno\source\repos\Area de un triangulo\Area de un triangulo\bin\Debug\Area de un triangulo.exe
+C:\Users\alumno\source\repos\Area de un triangulo\Area de un triangulo\bin\Debug\Area de un triangulo.pdb
+C:\Users\alumno\source\repos\Area de un triangulo\Area de un triangulo\bin\Debug\Area de un triangulo.xml
+C:\Users\alumno\source\repos\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.vbprojAssemblyReference.cache
+C:\Users\alumno\source\repos\Area de un triangulo\Area de un triangulo\obj\Debug\Area_de_un_triangulo.Resources.resources
+C:\Users\alumno\source\repos\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.vbproj.GenerateResource.cache
+C:\Users\alumno\source\repos\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.exe
+C:\Users\alumno\source\repos\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.xml
+C:\Users\alumno\source\repos\Area de un triangulo\Area de un triangulo\obj\Debug\Area de un triangulo.pdb

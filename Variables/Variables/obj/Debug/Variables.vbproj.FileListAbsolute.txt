@@ -1,0 +1,11 @@
+C:\Users\alumno\source\repos\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\alumno\source\repos\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\alumno\source\repos\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\alumno\source\repos\Variables\Variables\bin\Debug\Variables.xml
+C:\Users\alumno\source\repos\Variables\Variables\obj\Debug\Variables.vbprojAssemblyReference.cache
+C:\Users\alumno\source\repos\Variables\Variables\obj\Debug\Variables.Resources.resources
+C:\Users\alumno\source\repos\Variables\Variables\obj\Debug\Variables.vbproj.GenerateResource.cache
+C:\Users\alumno\source\repos\Variables\Variables\obj\Debug\Variables.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\alumno\source\repos\Variables\Variables\obj\Debug\Variables.xml
+C:\Users\alumno\source\repos\Variables\Variables\obj\Debug\Variables.pdb

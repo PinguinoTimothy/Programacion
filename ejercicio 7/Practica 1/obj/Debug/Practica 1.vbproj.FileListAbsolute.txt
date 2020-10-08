@@ -1,0 +1,11 @@
+C:\Users\alumno\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+C:\Users\alumno\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+C:\Users\alumno\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+C:\Users\alumno\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.xml
+C:\Users\alumno\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.vbprojAssemblyReference.cache
+C:\Users\alumno\source\repos\Practica 1\Practica 1\obj\Debug\Practica_1.Resources.resources
+C:\Users\alumno\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.vbproj.GenerateResource.cache
+C:\Users\alumno\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+C:\Users\alumno\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.xml
+C:\Users\alumno\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.pdb
