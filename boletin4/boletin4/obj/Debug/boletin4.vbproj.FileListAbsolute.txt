@@ -1,0 +1,11 @@
+C:\Users\alumno\Documents\GitHub\Programacion\boletin4\boletin4\obj\Debug\boletin4.vbprojAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\Programacion\boletin4\boletin4\obj\Debug\boletin4.Resources.resources
+C:\Users\alumno\Documents\GitHub\Programacion\boletin4\boletin4\obj\Debug\boletin4.vbproj.GenerateResource.cache
+C:\Users\alumno\Documents\GitHub\Programacion\boletin4\boletin4\obj\Debug\boletin4.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\GitHub\Programacion\boletin4\boletin4\bin\Debug\boletin4.exe.config
+C:\Users\alumno\Documents\GitHub\Programacion\boletin4\boletin4\bin\Debug\boletin4.exe
+C:\Users\alumno\Documents\GitHub\Programacion\boletin4\boletin4\bin\Debug\boletin4.pdb
+C:\Users\alumno\Documents\GitHub\Programacion\boletin4\boletin4\bin\Debug\boletin4.xml
+C:\Users\alumno\Documents\GitHub\Programacion\boletin4\boletin4\obj\Debug\boletin4.exe
+C:\Users\alumno\Documents\GitHub\Programacion\boletin4\boletin4\obj\Debug\boletin4.xml
+C:\Users\alumno\Documents\GitHub\Programacion\boletin4\boletin4\obj\Debug\boletin4.pdb

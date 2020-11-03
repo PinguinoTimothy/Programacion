@@ -9,3 +9,14 @@ C:\Users\alumno\source\repos\funcionmath\funcionmath\obj\Debug\funcionmath.vbpro
 C:\Users\alumno\source\repos\funcionmath\funcionmath\obj\Debug\funcionmath.exe
 C:\Users\alumno\source\repos\funcionmath\funcionmath\obj\Debug\funcionmath.xml
 C:\Users\alumno\source\repos\funcionmath\funcionmath\obj\Debug\funcionmath.pdb
+C:\Users\alumno\Documents\GitHub\Programacion\funcionmath\funcionmath\bin\Debug\funcionmath.exe.config
+C:\Users\alumno\Documents\GitHub\Programacion\funcionmath\funcionmath\bin\Debug\funcionmath.exe
+C:\Users\alumno\Documents\GitHub\Programacion\funcionmath\funcionmath\bin\Debug\funcionmath.pdb
+C:\Users\alumno\Documents\GitHub\Programacion\funcionmath\funcionmath\bin\Debug\funcionmath.xml
+C:\Users\alumno\Documents\GitHub\Programacion\funcionmath\funcionmath\obj\Debug\funcionmath.vbprojAssemblyReference.cache
+C:\Users\alumno\Documents\GitHub\Programacion\funcionmath\funcionmath\obj\Debug\funcionmath.Resources.resources
+C:\Users\alumno\Documents\GitHub\Programacion\funcionmath\funcionmath\obj\Debug\funcionmath.vbproj.GenerateResource.cache
+C:\Users\alumno\Documents\GitHub\Programacion\funcionmath\funcionmath\obj\Debug\funcionmath.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\GitHub\Programacion\funcionmath\funcionmath\obj\Debug\funcionmath.exe
+C:\Users\alumno\Documents\GitHub\Programacion\funcionmath\funcionmath\obj\Debug\funcionmath.xml
+C:\Users\alumno\Documents\GitHub\Programacion\funcionmath\funcionmath\obj\Debug\funcionmath.pdb

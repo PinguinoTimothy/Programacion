@@ -3,6 +3,79 @@
 Module Module1
 
     Sub Main    ()
+        'Ejercicio 1
+
+        '        Indica cuál es el error en las siguientes sentencias
+        'Dim x As String = 5 (Faltan "")  Dim x As String = "5"
+        'Dim c As Char = "Pepe" (Char es solo un caracter)
+        'Dim n As Integer = "Cinco"  (Integer es para numeros)
+        'Dim i As Integer 
+        'i = i + 2.5   (Integer no acepta decimales)
+
+        'Ejercicio 2
+        'Indica que tipo de variable utilizarías para guardar los siguientes valores: 
+        'True   Boolean
+        '“s”    Char
+        '“23w-67”   String
+        '45         Byte
+        '278        Short
+        '13,9       Single
+        '25,78787856    Double
+        '3.567.900      Integer
+
+
+        'Ejercicio 3
+
+
+        'Indica cuál es el problema(si es que hay alguno) en los siguientes ejemplos
+
+        Console.WriteLine(Math.Round(9.49, 1))
+
+        'A
+        'Dim v1 As Short = 379
+        'Dim v2 As Integer = 3500   No puedes pasar de un short a un integer directamente
+        'v1 = v2
+
+
+
+        'B
+        'Dim x1 As Single = 13.5
+        'Dim x2 As Double = x1      No puedes pasar de double a decimal
+        'Dim x3 As Decimal = x2
+
+
+
+        'C
+        'Dim d As Short = 345       
+        'Dim b As Byte = d          No puedes pasar de short a byte y ese short no cabe en 
+
+
+
+        'D
+        'Dim raiz As Integer = Math.Sqrt(9)      No puedes pasar de double a integer
+
+
+
+        'E
+        'Dim division As Decimal = 9 / 5        No puedes pasar de double a decimal
+
+
+
+        'F
+        'Dim cantidad As Short
+
+        'Console.WriteLine("Introduzca cantidad: ")
+        'cantidad = Console.ReadLine()              No puedes pasar de string a short
+
+
+        'G
+
+        'Dim y As Integer = 30000000
+
+        'Dim x As Short = Convert.ToInt16(y)             Ese valor no cabe en un short
+
+
+
 
         'Ejercicio 4
 

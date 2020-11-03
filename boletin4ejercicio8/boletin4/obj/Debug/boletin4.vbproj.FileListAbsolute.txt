@@ -1,0 +1,11 @@
+C:\Users\ianro\source\repos\boletin4\boletin4\bin\Debug\boletin4.exe.config
+C:\Users\ianro\source\repos\boletin4\boletin4\bin\Debug\boletin4.exe
+C:\Users\ianro\source\repos\boletin4\boletin4\bin\Debug\boletin4.pdb
+C:\Users\ianro\source\repos\boletin4\boletin4\bin\Debug\boletin4.xml
+C:\Users\ianro\source\repos\boletin4\boletin4\obj\Debug\boletin4.vbprojAssemblyReference.cache
+C:\Users\ianro\source\repos\boletin4\boletin4\obj\Debug\boletin4.Resources.resources
+C:\Users\ianro\source\repos\boletin4\boletin4\obj\Debug\boletin4.vbproj.GenerateResource.cache
+C:\Users\ianro\source\repos\boletin4\boletin4\obj\Debug\boletin4.vbproj.CoreCompileInputs.cache
+C:\Users\ianro\source\repos\boletin4\boletin4\obj\Debug\boletin4.exe
+C:\Users\ianro\source\repos\boletin4\boletin4\obj\Debug\boletin4.xml
+C:\Users\ianro\source\repos\boletin4\boletin4\obj\Debug\boletin4.pdb
