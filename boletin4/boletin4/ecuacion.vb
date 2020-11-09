@@ -1,11 +1,13 @@
 ﻿Option Strict On
-Module ejercicio13
-
+Module ecuacion
     Sub main()
-
 
         Dim a, b, c As Double
         Dim x1, x2 As Double
+
+
+
+
 
         Console.WriteLine("¿a?")
         a = Convert.ToDouble(Console.ReadLine)
@@ -22,27 +24,29 @@ Module ejercicio13
             Console.WriteLine("x1 es: " & x1)
             Console.WriteLine("x2 es: " & x2)
 
-        ElseIf b = 0 And a < 0 And c > 0 Then
-            x1 = Math.Sqrt(-c / a)
-            x2 = Math.Sqrt(-(-c / a))
+        ElseIf b = 0 Then
+            If a < 0 And c > 0 Then
+                x1 = Math.Sqrt(-c / a)
+                x2 = Math.Sqrt(-(-c / a))
 
-            Console.WriteLine("x1 es: " & x1)
-            Console.WriteLine("x2 es: " & x2)
+                Console.WriteLine("x1 es: " & x1)
+                Console.WriteLine("x2 es: " & x2)
 
-        ElseIf b = 0 And a < 0 And c < 0 Then
+            ElseIf a < 0 And c < 0 Then
 
-            Console.WriteLine("La raiz no tiene solucion.")
+                Console.WriteLine("La raiz no tiene solucion.")
 
-        ElseIf b = 0 And a > 0 And c < 0 Then
-            x1 = Math.Sqrt(-c / a)
-            x2 = Math.Sqrt(-(-c / a))
+            ElseIf a > 0 And c < 0 Then
+                x1 = Math.Sqrt(-c / a)
+                x2 = Math.Sqrt(-(-c / a))
 
-            Console.WriteLine("x1 es: " & x1)
-            Console.WriteLine("x2 es: " & x2)
+                Console.WriteLine("x1 es: " & x1)
+                Console.WriteLine("x2 es: " & x2)
 
-        ElseIf b = 0 And a >= 0 And c > 0 Then
+            ElseIf a >= 0 And c > 0 Then
 
-            Console.WriteLine("La raiz no tiene solucion.")
+                Console.WriteLine("La raiz no tiene solucion.")
+            End If
 
         ElseIf c = 0 Then
             x1 = 0
@@ -66,8 +70,7 @@ Module ejercicio13
 
         Console.ReadLine()
 
+
+
     End Sub
-
-
-
 End Module

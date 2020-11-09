@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0F0DFBB5-6585-45BD-A2B1-293FB0444FF6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>boletin4.ejercicio13</StartupObject>
+    <StartupObject>boletin4.Ejercicio15</StartupObject>
     <RootNamespace>boletin4</RootNamespace>
     <AssemblyName>boletin4</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,10 +69,14 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ecuacion.vb" />
     <Compile Include="Ejercicio10.vb" />
+    <Compile Include="ejercicio10b.vb" />
     <Compile Include="Ejercicio12.vb" />
     <Compile Include="ejercicio13.vb" />
     <Compile Include="ejercicio14.vb" />
+    <Compile Include="Ejercicio15.vb" />
+    <Compile Include="Ejercicio16.vb" />
     <Compile Include="ejercicio7.vb" />
     <Compile Include="ejercicio8.vb" />
     <Compile Include="ejercicio9.vb" />
